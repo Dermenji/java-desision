@@ -4,9 +4,9 @@ package com.academy.lecture06;
 public class Main {
 
     public static void main(String[] args) {
-    /*    Lecture lecture = new Lecture();
+        Lecture lecture = new Lecture();
         lecture.checkPeopleRigts(21);
-        lecture.ifExample(16);*/
+        lecture.ifExample(16);
         getMonthNumberOfDays(2, 1996);
     }
 
